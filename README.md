@@ -1,4 +1,4 @@
-## Bem vindo(a), Eu sou o Gustavo!😉
+## Bem vindo(a), eu sou o Gustavo!😉
 
 - 👨‍💻 Cursando Sistemas de Informação na USP
 - 📗 Estudando linguagem Kotlin
